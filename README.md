@@ -37,7 +37,7 @@ After the successful execution of `install.sh` you are ready to run the main pip
 
 ## Usage
 
-### Requrements
+### Requirements
 
 
 ### Credits:
