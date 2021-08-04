@@ -85,6 +85,18 @@ The second argument required to `Rscript` is BED file which contain the specific
 Below is an example of BED file <br />
 NOTE: The table header is for descriptive purposes. The BED file should not have header
 
+|CHROM|START|END|IDENTIFIER|
+|-----|-----|---|----------|
+|chr19|53666679|53706336|hsa-miR-526a-1/miR-512-1|
+|chr14|101022066|101043062|hsa-miR-1185-1/miR-379|
+|chr14|100869060|100884783|hsa-miR-136/miR-493|
+|chrx|50003148|50014683|hsa-miR-502/miR-532|
+|chr9|134849298|134850807|hsa-miR-3689f/miR-3689c|
+|chr13|91350605|91351391|hsa-miR-92a-1/miR-17|
+|chrx|134169378|134170278|hsa-miR-106a/miR-363|
+|chrx|134540185|134546711|hsa-miR-424/miR-450b|
+|chrx|145992750|146001131|hsa-miR-891b/miR-892c|
+|chr20|63919449|63919939|hsa-miR-941-5/miR-941-1|
 
 
 
