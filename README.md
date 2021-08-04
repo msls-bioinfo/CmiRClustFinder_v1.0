@@ -21,6 +21,7 @@ If above prerequisite are satisfied, you are ready to install dependencies and b
 To obtain *CmiRClustFinder*, Use: <br />
 ```
 git clone https://github.com/msls-bioinfo/CmiRClustFinder_v1.0.git
+cd CmiRClustFinder_v1.0/
 ```
 or 
 <br/>
