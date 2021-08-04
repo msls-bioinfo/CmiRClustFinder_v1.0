@@ -41,7 +41,7 @@ The pipleline triggered by executing `Rscript`:
 ```
 Rscript CmiRclustFinder.r <TCGA cohort abbreviation> <BED file specifying user intrested genomic regions>
 ```
-The first argument to `Rscript` is TCGA cahort abbreviation, You can select from the list below
+The first argument required to `Rscript` is TCGA cahort abbreviation, You can select from the list below
 
 |Sr. No.| Cohort Abbreviation | Cohort Name |
 |------|---------------------|--------------|
@@ -80,6 +80,12 @@ The first argument to `Rscript` is TCGA cahort abbreviation, You can select from
 |33|TCGA-UCEC|Uterine Corpus Endometrial Carcinoma|
 |34|TCGA-UCS|Uterine Carcinosarcoma|
 |35|TCGA-UVM|Uveal Melanoma|
+
+The second argument required to `Rscript` is BED file which contain the specific genomic regions, to cheack their co-localization with RCNV. <br />
+Below is an example of BED file <br />
+NOTE: The table header is for descriptive purposes. The BED file should not have header
+
+
 
 
 ### Requirements
