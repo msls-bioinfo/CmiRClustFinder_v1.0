@@ -36,9 +36,16 @@ sh install.sh
 After the successful execution of `install.sh` you are ready to run the main pipeline script `CmiRClustFinder.r` which is located in `RScript/` directory
 
 ## Usage
+```
+Rscript CmiRclustFinder.r <TCGA cohort abbreviation> <BED file specifying user intrested genomic regions>
+```
+
+
 
 ### Requirements
-`CmiRClustFinder` requires an segmented somatic copy number altrations (sCNA) data for patients group from TCGA cohort. 
+`CmiRClustFinder` requires an segmented somatic copy number altrations (sCNA) data for patients group from TCGA cohort.
+
+
 
 
 ### Credits:
