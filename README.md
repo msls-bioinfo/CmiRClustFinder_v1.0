@@ -26,6 +26,8 @@ or
 <br/>
 ```
 wget https://github.com/msls-bioinfo/CmiRClustFinder_v1.0/archive/refs/heads/main.zip
+unzip main.zip
+cd CmiRClustFinder_v1.0-main/
 ```
 Assuming that you have downloaded the source code and it is in a directory `CmiRClustFinder/`, to install all dependencies follow the procedure: <br />
 
