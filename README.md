@@ -98,6 +98,8 @@ NOTE: The table header is for descriptive purposes. The BED file should not have
 |chrx|145992750|146001131|hsa-miR-891b/miR-892c|
 |chr20|63919449|63919939|hsa-miR-941-5/miR-941-1|
 
+Know more about the bed file format : (http://genome.ucsc.edu/FAQ/FAQformat#format1)
+
 
 
 ### Requirements
