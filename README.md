@@ -43,43 +43,43 @@ Rscript CmiRclustFinder.r <TCGA cohort abbreviation> <BED file specifying user i
 ```
 The first argument to `Rscript` is TCGA cahort abbreviation, You can select from the list below
 
-| Cohort Abbreviation | Cohort Name |
-|---------------------|--------------|
-|TCGA-ACC|Adrenocortical carcinoma|
-|TCGA-BLCA|Bladder Urothelial Carcinoma|
-|TCGA-BRCA|Breast invasive carcinoma|
-|TCGA-CESC|Cervical squamous cell carcinoma and endocervical adenocarcinoma|
-|TCGA-CHOL|Cholangiocarcinoma|
-|TCGA-COAD|Colon adenocarcinoma|
-|TCGA-COADREAD|Colorectal adenocarcinoma|
-|TCGA-DLBC|Lymphoid Neoplasm Diffuse Large B-cell Lymphoma|
-|TCGA-ESCA|Esophageal carcinoma|
-|TCGA-GBM|Glioblastoma multiforme|
-|TCGA-GBMLGG|Glioma|
-|TCGA-HNSC|Head and Neck squamous cell carcinoma|
-|TCGA-KICH|Kidney Chromophobe|
-|TCGA-KIPAN|Pan-kidney cohort(KICH+KIRC+KIRP)|
-|TCGA-KIRC|Kidney renal clear cell carcinoma|
-|TCGA-KIRP|Kidney renal papillary cell carcinoma|
-|TCGA-LGG|Brain Lower Grade Glioma|
-|TCGA-LIHC|Liver hepatocellular carcinoma|
-|TCGA-LUAD|Lung adenocarcinoma|
-|TCGA-LUSC|Lung squamous cell carcinoma|
-|TCGA-MESO|Mesothelioma|
-|TCGA-OV|Ovarian serous cystadenocarcinoma|
-|TCGA-PAAD|Pancreatic adenocarcinoma|
-|TCGA-PCPG|Pheochromocytoma and Paraganglioma|
-|TCGA-PRAD|Prostate adenocarcinoma|
-|TCGA-READ|Rectum adenocarcinoma|
-|TCGA-SARC|Sarcoma|
-|TCGA-SKCM|Skin Cutaneous Melanoma|
-|TCGA-STAD|Stomach adenocarcinoma|
-|TCGA-TGCT|Testicular Germ Cell Tumors|
-|TCGA-THCA|Thyroid carcinoma|
-|TCGA-THYM|Thymoma|
-|TCGA-UCEC|Uterine Corpus Endometrial Carcinoma|
-|TCGA-UCS|Uterine Carcinosarcoma|
-|TCGA-UVM|Uveal Melanoma|
+|Sr. No.| Cohort Abbreviation | Cohort Name |
+|------|---------------------|--------------|
+|1|TCGA-ACC|Adrenocortical carcinoma|
+|2|TCGA-BLCA|Bladder Urothelial Carcinoma|
+|3|TCGA-BRCA|Breast invasive carcinoma|
+|4|TCGA-CESC|Cervical squamous cell carcinoma and endocervical adenocarcinoma|
+|5|TCGA-CHOL|Cholangiocarcinoma|
+|6|TCGA-COAD|Colon adenocarcinoma|
+|7|TCGA-COADREAD|Colorectal adenocarcinoma|
+|8|TCGA-DLBC|Lymphoid Neoplasm Diffuse Large B-cell Lymphoma|
+|9|TCGA-ESCA|Esophageal carcinoma|
+|10|TCGA-GBM|Glioblastoma multiforme|
+|11|TCGA-GBMLGG|Glioma|
+|12|TCGA-HNSC|Head and Neck squamous cell carcinoma|
+|13|TCGA-KICH|Kidney Chromophobe|
+|14|TCGA-KIPAN|Pan-kidney cohort(KICH+KIRC+KIRP)|
+|15|TCGA-KIRC|Kidney renal clear cell carcinoma|
+|16|TCGA-KIRP|Kidney renal papillary cell carcinoma|
+|17|TCGA-LGG|Brain Lower Grade Glioma|
+|18|TCGA-LIHC|Liver hepatocellular carcinoma|
+|19|TCGA-LUAD|Lung adenocarcinoma|
+|20|TCGA-LUSC|Lung squamous cell carcinoma|
+|21|TCGA-MESO|Mesothelioma|
+|22|TCGA-OV|Ovarian serous cystadenocarcinoma|
+|23|TCGA-PAAD|Pancreatic adenocarcinoma|
+|24|TCGA-PCPG|Pheochromocytoma and Paraganglioma|
+|25|TCGA-PRAD|Prostate adenocarcinoma|
+|26|TCGA-READ|Rectum adenocarcinoma|
+|27|TCGA-SARC|Sarcoma|
+|28|TCGA-SKCM|Skin Cutaneous Melanoma|
+|29|TCGA-STAD|Stomach adenocarcinoma|
+|30|TCGA-TGCT|Testicular Germ Cell Tumors|
+|31|TCGA-THCA|Thyroid carcinoma|
+|32|TCGA-THYM|Thymoma|
+|33|TCGA-UCEC|Uterine Corpus Endometrial Carcinoma|
+|34|TCGA-UCS|Uterine Carcinosarcoma|
+|35|TCGA-UVM|Uveal Melanoma|
 
 
 ### Requirements
