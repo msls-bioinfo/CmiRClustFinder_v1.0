@@ -38,6 +38,7 @@ After the successful execution of `install.sh` you are ready to run the main pip
 ## Usage
 
 ### Requirements
+`CmiRClustFinder` requires an segmented somatic copy number altrations (sCNA) data for patients group from TCGA cohort. 
 
 
 ### Credits:
