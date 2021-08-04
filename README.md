@@ -105,6 +105,10 @@ Know more about the bed file format : (http://genome.ucsc.edu/FAQ/FAQformat#form
 ### Requirements
 `CmiRClustFinder` requires an segmented somatic copy number altrations (sCNA) data for patients group from TCGA cohort.
 
+## Output files
+### Final Results
+
+
 
 
 
