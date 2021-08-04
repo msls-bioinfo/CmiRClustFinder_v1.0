@@ -41,7 +41,45 @@ The pipleline triggered by executing `Rscript`:
 ```
 Rscript CmiRclustFinder.r <TCGA cohort abbreviation> <BED file specifying user intrested genomic regions>
 ```
+The first argument to `Rscript` is TCGA cahort abbreviation, You can select from the list below
 
+| Cohort Abbreviation | Cohort Name |
+|---------------------|--------------|
+|TCGA-ACC|Adrenocortical carcinoma|
+|TCGA-BLCA|Bladder Urothelial Carcinoma|
+|TCGA-BRCA|Breast invasive carcinoma|
+|TCGA-CESC|Cervical squamous cell carcinoma and endocervical adenocarcinoma|
+|TCGA-CHOL|Cholangiocarcinoma|
+|TCGA-COAD|Colon adenocarcinoma|
+|TCGA-COADREAD|Colorectal adenocarcinoma|
+|TCGA-DLBC|Lymphoid Neoplasm Diffuse Large B-cell Lymphoma|
+|TCGA-ESCA|Esophageal carcinoma|
+|TCGA-GBM|Glioblastoma multiforme|
+|TCGA-GBMLGG|Glioma|
+|TCGA-HNSC|Head and Neck squamous cell carcinoma|
+|TCGA-KICH|Kidney Chromophobe|
+|TCGA-KIPAN|Pan-kidney cohort(KICH+KIRC+KIRP)|
+|TCGA-KIRC|Kidney renal clear cell carcinoma|
+|TCGA-KIRP|Kidney renal papillary cell carcinoma|
+|TCGA-LGG|Brain Lower Grade Glioma|
+|TCGA-LIHC|Liver hepatocellular carcinoma|
+|TCGA-LUAD|Lung adenocarcinoma|
+|TCGA-LUSC|Lung squamous cell carcinoma|
+|TCGA-MESO|Mesothelioma|
+|TCGA-OV|Ovarian serous cystadenocarcinoma|
+|TCGA-PAAD|Pancreatic adenocarcinoma|
+|TCGA-PCPG|Pheochromocytoma and Paraganglioma|
+|TCGA-PRAD|Prostate adenocarcinoma|
+|TCGA-READ|Rectum adenocarcinoma|
+|TCGA-SARC|Sarcoma|
+|TCGA-SKCM|Skin Cutaneous Melanoma|
+|TCGA-STAD|Stomach adenocarcinoma|
+|TCGA-TGCT|Testicular Germ Cell Tumors|
+|TCGA-THCA|Thyroid carcinoma|
+|TCGA-THYM|Thymoma|
+|TCGA-UCEC|Uterine Corpus Endometrial Carcinoma|
+|TCGA-UCS|Uterine Carcinosarcoma|
+|TCGA-UVM|Uveal Melanoma|
 
 
 ### Requirements
