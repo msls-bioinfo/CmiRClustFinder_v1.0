@@ -115,6 +115,8 @@ Run CmiRClustFinder on a sample dataset:
 `CmiRClustFinder` requires an segmented somatic copy number altrations (sCNA) data for patients group from TCGA cohort.
 
 ## Output files
+Results are saved to the run-specific folder inside the `Output` directory 
+
 ### Final Results
 
 
