@@ -103,6 +103,12 @@ NOTE: The table header is for descriptive purposes. The BED file should not have
 
 Know more about the bed file format : (http://genome.ucsc.edu/FAQ/FAQformat#format1)
 
+## Examples
+Sample datasets are included in the Examples folder. <br />
+Run CmiRClustFinder on a sample dataset:
+```
+
+```
 
 
 ### Requirements
