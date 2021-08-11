@@ -123,7 +123,7 @@ Results are saved to the run-specific folder inside the `Output` directory
 
 
 
-### Credits:
+### Credits
 
 1. TCGA Workflow: Analyze cancer genomics and epigenomics data using Bioconductor packages (https://f1000research.com/articles/5-1542)
 2. TCGAbiolinks R package (https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html)
