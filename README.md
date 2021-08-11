@@ -40,7 +40,7 @@ After the successful execution of `install.sh` you are ready to run the main pip
 
 ## Usage
 The pipleline triggered by executing `Rscript CmiRclustFinder.r` which is present in `Rscripts` directory<br />
-please navigate into the `Rscripts` directory
+please navigate into the `Rscripts` directory to start the pipeline
 
 ```
 Rscript CmiRclustFinder.r <TCGA cohort abbreviation> <BED file specifying user intrested genomic regions>
