@@ -8,7 +8,7 @@ Interestingly, ~ 25% of annotated human microRNAs (miRNAs) occur as a cluster in
   *CmiRClustFinder* is designed for Linux operating system. If you wish to use this pipeline, follow the instructions below. <br />
   
 ### Prerequisite: 
-  The following Linux utilities are requred to run this pipeline. Please make sure the following are installed and available on your system prior to run `install.sh` from source directory.<br />
+  The following Linux utilities are required to run this pipeline. Please make sure the following are installed and available on your system prior to run `install.sh` from the source directory.<br />
   ```
   1. R = 4.0 (or higher)
   2. git
