@@ -1,13 +1,13 @@
 # *CmiRClustFinder v1.0*
 ## Overview
-Interestingly ~ 25% of annotated human microRNAs (miRNAs) occur as a cluster in intragenic and intergenic regions of the human genome. Each miRNA cluster consists of two or more miRNAs that are transcribed from physically adjacent miRNA genes from a single promoter. These miRNA clusters are proposed to work more efficiently than a single miRNA as it contains multiple miRNA encoding genes. These multiple members of a cluster show high sequence similarity in the seed region and they often have the same targets or target different genes belonging to specific pathways. The expression of miRNA clusters is regulated by several genetic and epigenetic reprogramming. The miRNA genes are most commonly affected by the structural variations as compared to single nucleotide variation. The critical reason for the structural variation is the clustering of miRNAs at chromosome fragile sites. Here, we developed a user-friendly pipeline `CmiRClustFinder`, which integrates user-inputted miRNA cluster information with copy number variation (CNV) datasets from TCGA and identifies CNV colocalized miRNA clusters. The primary version of `CmiRClustFinder` is restricted to TCGA CNV datasets, it will be expanded with subsequent updates. <br /><br />
-*CmiRClustFinder* utility is developed to identify recurrent copy number variations (RCNV) - colocalized miRNA clusters from TCGA Cancer datasets. This pipeline is not only limited to miRNA clusters, users can also supply any genomic element (eg. any specific region or gene) to check for RCNV associations in specific TCGA cancer types. (Note: please use hg38 genome build coordinates)
+Interestingly ~ 25% of annotated human microRNAs (miRNAs) occur as a cluster in intragenic and intergenic regions of the human genome. Each miRNA cluster consists of two or more miRNAs that are transcribed from physically adjacent miRNA genes from a single promoter. These miRNA clusters are proposed to work more efficiently than a single miRNA as it contains multiple miRNA encoding genes. These multiple members of a cluster show high sequence similarity in the seed region and they often have the same targets or target different genes belonging to specific pathways. The expression of miRNA clusters is regulated by several genetic and epigenetic reprogramming. The miRNA genes are most commonly affected by the structural variations as compared to single nucleotide variation. The critical reason for the structural variation is the clustering of miRNAs at chromosome fragile sites. Here, we developed a user-friendly pipeline `CmiRClustFinder`, which integrates user-inputted miRNA cluster information with copy number variation (CNV) datasets from TCGA and identifies CNV co-localized miRNA clusters. The primary version of `CmiRClustFinder` is restricted to TCGA CNV datasets, it will be expanded with subsequent updates. <br /><br />
+*CmiRClustFinder* utility is developed to identify Recurrent Copy Number Variations (RCNV) - colocalized miRNA clusters from TCGA Cancer datasets. This pipeline is not only limited to miRNA clusters, users can also supply any genomic element (eg. any specific region or gene) to check for RCNV associations in specific TCGA cancer types. (Note: please use hg38 genome build coordinates)
 
 
 ## Installation
   *CmiRClustFinder* is designed for Linux operating system. If you wish to use this pipeline, follow the instructions below. <br />
   
-### Prerequisite: 
+### Prerequisite
   The following Linux utilities are required to run this pipeline. Please make sure the following are installed and available on your system prior to run `install.sh` from the source directory.<br />
   ```
   1. R = 4.0 (or higher)
@@ -15,8 +15,7 @@ Interestingly ~ 25% of annotated human microRNAs (miRNAs) occur as a cluster in 
   3. unzip
   ```
   
-  
-If above prerequisite are satisfied, you are ready to install dependencies and build the pragram. Note during the building procedure, `install.sh` will attempt to download and install several packages, so an active internet conection is required.
+If the above prerequisites are satisfied, you are ready to install dependencies and build the program. Note during the building procedure, `install.sh` will attempt to download and install several packages, so an active internet connection is required.
   
 To obtain *CmiRClustFinder*, Use: <br />
 ```
