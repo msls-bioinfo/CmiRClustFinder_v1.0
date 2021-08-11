@@ -117,8 +117,6 @@ Run CmiRClustFinder on a sample dataset:
 ## Output files
 Results are saved to the run-specific folder inside the `Output` directory 
 
-### Final Results
-
 
 
 
