@@ -39,7 +39,8 @@ sh install.sh
 After the successful execution of `install.sh` you are ready to run the main pipeline script `CmiRClustFinder.r` which is located in `RScript/` directory
 
 ## Usage
-The pipleline triggered by executing `Rscript`: 
+The pipleline triggered by executing `Rscript`: <br />
+please navigate into the `Rscripts` directory
 
 ```
 Rscript CmiRclustFinder.r <TCGA cohort abbreviation> <BED file specifying user intrested genomic regions>
