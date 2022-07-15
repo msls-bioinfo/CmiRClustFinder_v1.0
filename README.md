@@ -4,7 +4,9 @@ Interestingly ~ 25% of annotated human microRNAs (miRNAs) occur as a cluster in 
 *CmiRClustFinder* utility is developed to identify Recurrent Copy Number Variations (RCNV) - colocalized miRNA clusters from TCGA Cancer datasets. This pipeline is not only limited to miRNA clusters, users can also supply any genomic element (eg. any specific region or gene) to check for RCNV associations in specific TCGA cancer types. (Note: please use hg38 genome build coordinates)
 
 ## Citation
+If you are using this pipeline, please cite:
 ```
+Ware, A.P., Kabekkodu, S.P., Chawla, A., Paul, B., Satyamoorthy K. Diagnostic and prognostic potential clustered miRNAs in bladder cancer. 3 Biotech 12, 173 (2022). https://doi.org/10.1007/s13205-022-03225-z
 
 ```
 ## Installation
