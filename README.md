@@ -9,6 +9,13 @@ If you are using this pipeline, please cite:
 Ware, A.P., Kabekkodu, S.P., Chawla, A., Paul, B., Satyamoorthy K. Diagnostic and prognostic potential clustered miRNAs in bladder cancer. 3 Biotech 12, 173 (2022). https://doi.org/10.1007/s13205-022-03225-z
 
 ```
+
+The automated version of this pipeline is now published and available for use:
+
+```
+Ware, A.P., Satyamoorthy K., Paul, B. CmirC: an integrated database of clustered miRNAs co-localized with copy number variations in cancer. Funct Integr Genomics (2022). https://doi.org/10.1007/s10142-022-00909-w 
+
+```
 ## Installation
   *CmiRClustFinder* is designed for Linux operating system. If you wish to use this pipeline, follow the instructions below. <br />
   
